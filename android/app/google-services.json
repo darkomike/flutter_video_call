@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032110152454",
+    "project_id": "video-call-flutter-7c155",
+    "storage_bucket": "video-call-flutter-7c155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032110152454:android:2abfe1262c9050cd041c87",
+        "android_client_info": {
+          "package_name": "com.skyagain.video_call_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032110152454-kb2ksjlpgmat1r4smi1f5saejege30bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxc2VgQU-BCiDYWF3wmW3VlehdPs21bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032110152454-kb2ksjlpgmat1r4smi1f5saejege30bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
